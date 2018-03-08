@@ -1,0 +1,38 @@
+ #nav {
+    text-align: justify;
+    min-width: 500px;
+	font-family: Helvetica;
+    font-size: 45px
+	text-decoration: none;
+	 background-color: darkgray;
+	padding-right: 25px;
+	padding-left: 25px;
+	 	 
+}
+#nav a{text-decoration: none;
+
+}
+
+
+
+
+
+#nav:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+	
+   
+}
+#nav li {
+    display: inline-block;
+	
+}
+    #nav{font-family: Helvetica;
+        font-size: 25px
+         }
+    
+    #nav a {
+    color: #000;
+        }
+
