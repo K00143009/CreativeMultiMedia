@@ -56,8 +56,11 @@
     flex-direction: column;
     justify-content: space-around;
     align-content: flex-start;
-    
-  	
+}
+
+#CMPPintro h2{
+	
+	text-align: center;
 }
 
 
@@ -67,7 +70,94 @@
 	padding-left: 25px;
 	padding-right: 25px;
 	
-	
 }
 
+.CreativeMultimedia01
+
+{
+	background-color: azure;	
+	
+	
+}
+	.moduleshome {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 30px;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+
+
+.moduleshome {
+  max-width: 1200px; 
+  margin: 10px auto 30px;
+  background-color: darkgrey;
+}
+
+
+@media (max-width: 600px) {
+    .moduleshome {
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 100%;
+    }
+}
+
+
+@media (max-width: 300px) {
+    .moduleshome {
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 100%;
+    }
+}
+
+.moduleshome a{
+	
+text-decoration: none;
+				
+}
+    
+.moduleshome p{
+	
+	font-family: monospace;
+	text-align: center;
+		
+}
+
+
+.moduleshome  h2 {
+	
+	font-size: 23px;
+	font-style: oblique;
+	font font-family: monospace;	
+}
+.moduleshome  h1 {
+	
+	font-size: 27px;
+	font-style: oblique;
+	font font-family: monospace;	
+}
+
+
+.moduleshome a{
+	
+	text-align: center;
+	color: black;
+}
+	
+	
+.moduleshome img{
+
+	
+	align-content: center;
+	
+}
+	
+	
+	
+	
+	
+	
+	
 
