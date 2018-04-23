@@ -140,19 +140,27 @@ text-decoration: none;
 }
 
 
-.moduleshome a{
+.moduleshome a, h{
 	
-	text-align: center;
-	color: black;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	
+	
+	
 }
 	
 	
-.moduleshome img{
+.moduleshome img
 
 	
-	align-content: center;
-	
+	{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
 }
+
 	
 	
 	
