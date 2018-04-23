@@ -136,11 +136,13 @@ text-decoration: none;
 	
 	font-size: 27px;
 	font-style: oblique;
-	font font-family: monospace;	
+	font font-family: monospace;
+	
+	
 }
 
 
-.moduleshome a, h{
+.moduleshome a, {
 	
 	display: block;
     margin-left: auto;
@@ -152,20 +154,19 @@ text-decoration: none;
 	
 	
 .moduleshome img
-
-	
 	{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 10%;
+    width: 15%;
 }
 
 	
 	
+.moduleshome h1{
 	
+	text-align: center;
+   
 	
-	
-	
-	
+}
 
